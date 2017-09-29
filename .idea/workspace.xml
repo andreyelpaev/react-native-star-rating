@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4bc8a483-f9c1-4190-bec4-3394494c0663" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/star-button.js" afterPath="$PROJECT_DIR$/star-button.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/star-rating.js" afterPath="$PROJECT_DIR$/star-rating.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -23,27 +22,67 @@
         <entry file="file://$PROJECT_DIR$/Example/index.ios.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="165">
-              <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-              <folding />
+              <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+              <folding>
+                <marker date="1506684207000" expanded="true" signature="0:78" ph="/** Sample React Native App ...*/" />
+                <marker date="1506684207000" expanded="true" signature="86:227" ph="..." />
+                <marker date="1506684207000" expanded="true" signature="262:554" ph="{...}" />
+                <marker date="1506684207000" expanded="true" signature="277:383" ph="{&quot;justifyContent&quot;: 'center'...}" />
+                <marker date="1506684207000" expanded="true" signature="396:460" ph="{&quot;textAlign&quot;: 'center'...}" />
+                <marker date="1506684207000" expanded="true" signature="478:551" ph="{&quot;textAlign&quot;: 'center'...}" />
+                <marker date="1506684207000" expanded="true" signature="590:2135" ph="{...}" />
+                <marker date="1506684207000" expanded="true" signature="614:720" ph="{...}" />
+                <marker date="1506684207000" expanded="true" signature="651:715" ph="{...}" />
+                <marker date="1506684207000" expanded="true" signature="757:822" ph="{...}" />
+                <marker date="1506684207000" expanded="true" signature="777:816" ph="{&quot;generalStarCount&quot;: rating...}" />
+                <marker date="1506684207000" expanded="true" signature="858:922" ph="{...}" />
+                <marker date="1506684207000" expanded="true" signature="878:916" ph="{&quot;customStarCount&quot;: rating...}" />
+                <marker date="1506684207000" expanded="true" signature="935:2133" ph="{...}" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="star-button.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/star-button.js">
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="207">
-              <caret line="125" column="25" lean-forward="true" selection-start-line="125" selection-start-column="25" selection-end-line="125" selection-end-column="25" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="star-rating.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="star-rating.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/star-rating.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="249">
-              <caret line="84" column="8" lean-forward="true" selection-start-line="84" selection-start-column="8" selection-end-line="84" selection-end-column="8" />
+            <state relative-caret-position="-269">
+              <caret line="34" column="4" lean-forward="false" selection-start-line="34" selection-start-column="4" selection-end-line="34" selection-end-column="4" />
+              <folding>
+                <marker date="1506684276000" expanded="true" signature="41:171" ph="..." />
+                <marker date="1506684276000" expanded="true" signature="271:2048" ph="{...}" />
+                <marker date="1506684276000" expanded="true" signature="295:383" ph="{...}" />
+                <marker date="1506684276000" expanded="true" signature="413:497" ph="{...}" />
+                <marker date="1506684276000" expanded="true" signature="510:2046" ph="{...}" />
+                <marker date="1506684276000" expanded="true" signature="814:915" ph="{&quot;justifyContent&quot;: 'space-between'...}" />
+                <marker date="1506684276000" expanded="true" signature="1078:1947" ph="{...}" />
+                <marker date="1506684276000" expanded="true" signature="1186:1264" ph="{...}" />
+                <marker date="1506684276000" expanded="true" signature="1293:1371" ph="{...}" />
+                <marker date="1506684276000" expanded="true" signature="2073:2772" ph="{&quot;disabled&quot;: PropTypes.bool...}" />
+                <marker date="1506684276000" expanded="true" signature="2136:2207" ph="[...]" />
+                <marker date="1506684276000" expanded="true" signature="2242:2313" ph="[...]" />
+                <marker date="1506684276000" expanded="true" signature="2348:2419" ph="[...]" />
+                <marker date="1506684276000" expanded="true" signature="2801:2966" ph="{&quot;emptyStar&quot;: 'star-o'...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="star-button.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/star-button.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="280">
+              <caret line="97" column="24" lean-forward="false" selection-start-line="97" selection-start-column="24" selection-end-line="97" selection-end-column="24" />
               <folding />
             </state>
           </provider>
@@ -51,14 +90,19 @@
       </file>
     </leaf>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>selectedstar</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/star-button.js" />
         <option value="$PROJECT_DIR$/star-rating.js" />
+        <option value="$PROJECT_DIR$/star-button.js" />
       </list>
     </option>
   </component>
@@ -140,12 +184,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1506684228495</updated>
-      <workItem from="1506684230069" duration="62000" />
+      <workItem from="1506684230069" duration="1321000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="62000" />
+    <option name="totallyTimeSpent" value="1321000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1280" height="727" extended-state="0" />
@@ -181,23 +225,61 @@
     <entry file="file://$PROJECT_DIR$/Example/index.ios.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
-          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding />
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding>
+            <marker date="1506684207000" expanded="true" signature="0:78" ph="/** Sample React Native App ...*/" />
+            <marker date="1506684207000" expanded="true" signature="86:227" ph="..." />
+            <marker date="1506684207000" expanded="true" signature="262:554" ph="{...}" />
+            <marker date="1506684207000" expanded="true" signature="277:383" ph="{&quot;justifyContent&quot;: 'center'...}" />
+            <marker date="1506684207000" expanded="true" signature="396:460" ph="{&quot;textAlign&quot;: 'center'...}" />
+            <marker date="1506684207000" expanded="true" signature="478:551" ph="{&quot;textAlign&quot;: 'center'...}" />
+            <marker date="1506684207000" expanded="true" signature="590:2135" ph="{...}" />
+            <marker date="1506684207000" expanded="true" signature="614:720" ph="{...}" />
+            <marker date="1506684207000" expanded="true" signature="651:715" ph="{...}" />
+            <marker date="1506684207000" expanded="true" signature="757:822" ph="{...}" />
+            <marker date="1506684207000" expanded="true" signature="777:816" ph="{&quot;generalStarCount&quot;: rating...}" />
+            <marker date="1506684207000" expanded="true" signature="858:922" ph="{...}" />
+            <marker date="1506684207000" expanded="true" signature="878:916" ph="{&quot;customStarCount&quot;: rating...}" />
+            <marker date="1506684207000" expanded="true" signature="935:2133" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/star-button.js">
+    <entry file="file://$PROJECT_DIR$/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="125" column="25" lean-forward="true" selection-start-line="125" selection-start-column="25" selection-end-line="125" selection-end-column="25" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/star-rating.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="249">
-          <caret line="84" column="8" lean-forward="true" selection-start-line="84" selection-start-column="8" selection-end-line="84" selection-end-column="8" />
+        <state relative-caret-position="-269">
+          <caret line="34" column="4" lean-forward="false" selection-start-line="34" selection-start-column="4" selection-end-line="34" selection-end-column="4" />
+          <folding>
+            <marker date="1506684276000" expanded="true" signature="41:171" ph="..." />
+            <marker date="1506684276000" expanded="true" signature="271:2048" ph="{...}" />
+            <marker date="1506684276000" expanded="true" signature="295:383" ph="{...}" />
+            <marker date="1506684276000" expanded="true" signature="413:497" ph="{...}" />
+            <marker date="1506684276000" expanded="true" signature="510:2046" ph="{...}" />
+            <marker date="1506684276000" expanded="true" signature="814:915" ph="{&quot;justifyContent&quot;: 'space-between'...}" />
+            <marker date="1506684276000" expanded="true" signature="1078:1947" ph="{...}" />
+            <marker date="1506684276000" expanded="true" signature="1186:1264" ph="{...}" />
+            <marker date="1506684276000" expanded="true" signature="1293:1371" ph="{...}" />
+            <marker date="1506684276000" expanded="true" signature="2073:2772" ph="{&quot;disabled&quot;: PropTypes.bool...}" />
+            <marker date="1506684276000" expanded="true" signature="2136:2207" ph="[...]" />
+            <marker date="1506684276000" expanded="true" signature="2242:2313" ph="[...]" />
+            <marker date="1506684276000" expanded="true" signature="2348:2419" ph="[...]" />
+            <marker date="1506684276000" expanded="true" signature="2801:2966" ph="{&quot;emptyStar&quot;: 'star-o'...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/star-button.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="97" column="24" lean-forward="false" selection-start-line="97" selection-start-column="24" selection-end-line="97" selection-end-column="24" />
           <folding />
         </state>
       </provider>

@@ -95,8 +95,7 @@ class StarButton extends Component {
     } else {
       const imageStyle = {
         width: starSize,
-        height: starSize,
-        resizeMode: 'contain',
+        height: starSize
       };
 
       const iconStyles = [
