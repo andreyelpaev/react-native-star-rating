@@ -68,7 +68,7 @@ class StarRating extends Component {
 
       const starButtonElement = (
         <StarButton
-          activeOpacity={0.20}
+          activeOpacity={1}
           disabled={disabled}
           key={i}
           rating={i + 1}

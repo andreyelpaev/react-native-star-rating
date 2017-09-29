@@ -123,7 +123,7 @@ class StarButton extends Component {
 
     return (
       <Button
-        activeOpacity={0.20}
+        activeOpacity={1}
         disabled={disabled}
         containerStyle={buttonStyle}
         onPress={this.onButtonPress}
